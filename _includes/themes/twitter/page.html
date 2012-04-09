@@ -1,5 +1,10 @@
           
-<div><a class="brand" href="{{ HOME_PATH }}">home</a> &gt;&gt;</div>
+{% if page.url != '/index.html' %}
+  <div><a href="{{ HOME_PATH }}">home</a> &gt;&gt;</div>
+{% endif %}
+
+
+
 <div class="page-header">
   <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 </div>
