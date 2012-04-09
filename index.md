@@ -1,8 +1,11 @@
 ---
+layout: default
 title: Home
 ---
 
-More info to come later.
+
+More info. to come later.
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -18,3 +21,4 @@ More info to come later.
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
