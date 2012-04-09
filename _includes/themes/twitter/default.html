@@ -29,16 +29,12 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          {% if page.url == "/index.html" %}
-          &nbsp;
-          {% else %}
-          <a class="brand" href="{{ HOME_PATH }}">^</a>
-          {% endif %}
-          <ul class="nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            <!-- {% include JB/pages_list %} -->
-          </ul>
+          {{ page.title }}
+          <!-- <ul class="nav"> -->
+            <!-- {% assign pages_list = site.pages %} -->
+            <!-- {% assign group = 'navigation' %} -->
+            <!-- [> {% include JB/pages_list %} <] -->
+          <!-- </ul> -->
         </div>
       </div>
     </div>
