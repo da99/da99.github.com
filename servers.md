@@ -5,9 +5,12 @@ description: ""
 ---
 {% include JB/setup %}
 
+Right now I manage less than 5 work/personal servers. I use:
+
 * chef-solo
 * capistrano
-* [Chef-Solo-Nodes](https://github.com/da99/Chef_Solo_Nodes)
+* [Chef-Solo-Nodes](https://github.com/da99/Chef_Solo_Nodes): Use chef node
+info in your Capistrano recipes and other Ruby code.
 * [Bootstrap for RBENV and Chef-Solo](https://github.com/da99/boot_ups/tree/master/straps)
 
 I avoid use of [knife-solo](https://github.com/matschaffer/knife-solo)
