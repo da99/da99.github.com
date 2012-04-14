@@ -8,5 +8,5 @@ tagline: How I Automate
 * Blogging about your code:  [Jekyll Bootstrap](http://jekyllbootstrap.com)
 * [Software Development Guidelines.](/sw-dev.html)
 * [Maintaining Servers](/servers.html)
-
+* [Monitor processes.](/monitor.html)
 
