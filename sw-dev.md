@@ -32,7 +32,7 @@ example of an alternative to the OS, rather than an
 abstraction of it. Squeak knows when to use an abstraction 
 and when to offer an alternative.
 
-4. Error checking frameworks:  I avoid them. I have written
+4. **Error checking frameworks:  I avoid them**. I have written
 several and I had to throw them all out.  They make development
 harder. They make understanding the architecture/essence of
 the app even harder.  In the end, I found that having a 
