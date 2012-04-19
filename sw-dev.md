@@ -32,3 +32,17 @@ example of an alternative to the OS, rather than an
 abstraction of it. Squeak knows when to use an abstraction 
 and when to offer an alternative.
 
+4. Error checking frameworks:  I avoid them. I have written
+several and I had to throw them all out.  They make development
+harder. They make understanding the architecture/essence of
+the app even harder.  In the end, I found that having a 
+predictable, easy-to-learn design with few lines of code
+is better than creating error checking frameworks, no matter
+how simple the error checking DSL is. 
+Even in the future 
+when [code is better visualized](http://vimeo.com/36579366), 
+the easiest way to debug is have fewer calls and an easy to
+understand design. This is hard to do because it requires
+changing working code to be easier to understand, rather than more
+efficient.  IN OTHER WORDS: 
+[write confident code](http://confreaks.com/videos/763-rubymidwest2011-confident-code).
