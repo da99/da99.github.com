@@ -10,3 +10,7 @@ tagline: How I Automate
 * [Maintaining Servers](/servers.html)
 * [Monitor processes.](/monitor.html)
 
+Other: 
+
+* [Daily complaints.](/complaints.html)
+
