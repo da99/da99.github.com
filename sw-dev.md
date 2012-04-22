@@ -8,11 +8,10 @@ description: ""
 These are the guidelines I use to write software.
 They are not universal guidelines.
 
-1.  **When creating libraries (eg Ruby gems),
-avoid objects as much as possible and create functions.**
+1.  **Confident Code + Fuctions. OOP only for state.**
 Functions are easier to test. OOP should be used when you 
 need state. Functions are more than enough when you need 
-functionality.
+functionality. Learn about [confident code](http://confreaks.com/videos/763-rubymidwest2011-confident-code).
 
 2.  **Writing apps takes time and is harder than you think.**
 If Jamis Buck can't continue Capistrano development, 
