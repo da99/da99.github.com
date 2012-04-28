@@ -14,7 +14,7 @@ need state. Functions are more than enough when you need
 functionality. Learn about [confident code](http://confreaks.com/videos/763-rubymidwest2011-confident-code).
 
 2.  **Writing apps takes time and is harder than you think.**
-If Jamis Buck can't continue Capistrano development, 
+If Jamis Buck can\'t continue Capistrano development, 
 why should you roll your own?
 
 3.  **Close to the metal, abstractions, and alternatives.**
@@ -45,3 +45,15 @@ understand design. This is hard to do because it requires
 changing working code to be easier to understand, rather than more
 efficient.  IN OTHER WORDS: 
 [write confident code](http://confreaks.com/videos/763-rubymidwest2011-confident-code).
+
+Automation
+---------
+* **Do the project as manually as much as possible.**
+It\'s very easy to create a tool I believe
+will help me, but later on I realize I did not need it.
+Doing it manually from start to finish 
+helps you to learn as much as possible about the project.
+I\'ve written lots of Ruby gems
+and libraries that turned out I did not need.
+
+
