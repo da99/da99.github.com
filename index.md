@@ -14,3 +14,7 @@ Other:
 
 * [Daily complaints.](/complaints.html)
 
+Culture and Future:
+
+* [Lock-in/Switching Costs](/lockin.html)
+
