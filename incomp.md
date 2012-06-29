@@ -10,3 +10,5 @@ description: ""
 <br />
 http://news.ycombinator.com/item?id=4174418
 
+"Might the Pentagon be worried that our own troops could learn from the Taliban? Were I an American soldier who had been told to hand over or unload his weapon before approaching Secretary Panetta, I would certainly have read it that way."
+http://www.theamericanconservative.com/articles/unfriendly-fire/
