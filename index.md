@@ -13,6 +13,7 @@ tagline: How I Automate
 Other: 
 
 * [Daily complaints.](/complaints.html)
+* [Incompetence.](/incomp.html)
 
 Culture and Future:
 
