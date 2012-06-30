@@ -41,6 +41,10 @@ http://pgbovine.net/PhD-memoir-year5.htm
 
 The entire page: http://pgbovine.net/PhD-memoir-year6.htm
 
+There are geniuses in academia:
+"Research into software development tools for non-software engineers, but rather for scientists, engineers, and researchers who need to program for their jobs -- they're not gonna care about specs., model checking, etc. -- they just want pragmatic, lightweight, and conceptually-simple tools that they can pick up quickly and use all the time. "
+<br />
+http://pgbovine.net/PhD-memoir-year6.htm
 
 
 
