@@ -9,6 +9,7 @@ tagline: How I Automate
 * [Software Development Guidelines.](/sw-dev.html)
 * [Maintaining Servers](/servers.html)
 * [Monitor processes.](/monitor.html)
+* I've given up on Ruby and only CoffeeScript/Node.JS with occassional Bash.
 
 Other: 
 
