@@ -10,3 +10,6 @@ http://cbracco.me/vps/#more-security
 
 Docker/Desktop
 https://news.ycombinator.com/item?id=6007914
+
+Generate Self-Signed Certificate
+http://b0ing.me/free-ssl-certificate-woes/
