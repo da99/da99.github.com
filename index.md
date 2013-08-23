@@ -20,3 +20,8 @@ Culture and Future:
 
 * [Lock-in/Switching Costs](/lockin.html)
 
+Bash:
+
+* [Bash FAQ](http://mywiki.wooledge.org/BashFAQ)
+* [Why you need eval, $@](http://stackoverflow.com/questions/18386466/is-it-possible-to-preserve-quotations-by-storing-into-another-variable/18387194#18387194)
+
