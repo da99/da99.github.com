@@ -8,6 +8,19 @@ description: ""
 These are the guidelines I use to write software.
 They are not universal guidelines.
 
+Main
+----
+1. Working on simple code is better than developing
+and elegant solution in your mind.
+
+2. Functions and Ruby Objects working together
+to create anything you can imagine.
+
+3. Create a first copy just for fun (and throwaway).
+Theory vs. practice.
+
+Other
+-----
 1.  **Confident Code + Fuctions. OOP only for state.**
 Functions are easier to test. OOP should be used when you 
 need state. Functions are more than enough when you need 
