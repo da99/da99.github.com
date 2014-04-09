@@ -19,6 +19,13 @@ to create anything you can imagine.
 3. Create a first copy just for fun (and throwaway).
 Theory vs. practice.
 
+4. Geniuses (ie Kay, Engelbart, Nelson) can handle
+complexity to create simplicity. Mere mortals such as
+ourselves can only handle simplicity, even if it
+sacrifices functionality. Let them develop the needed
+complexity, we will get there through profitable
+simplicity.
+
 Other
 -----
 1.  **Confident Code + Fuctions. OOP only for state.**
