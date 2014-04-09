@@ -17,3 +17,8 @@ SSL Deployment:
 
   * https://news.ycombinator.com/item?id=6446955
   * https://news.ycombinator.com/item?id=6447518
+
+Books:
+
+  * Free Programming Books:
+    [https://news.ycombinator.com/item?id=7557911](https://news.ycombinator.com/item?id=7557911)
