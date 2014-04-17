@@ -22,3 +22,8 @@ Books:
 
   * Free Programming Books:
     [https://news.ycombinator.com/item?id=7557911](https://news.ycombinator.com/item?id=7557911)
+
+Bash:
+
+  * Better Bash:
+    [http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
