@@ -27,3 +27,8 @@ Bash:
 
   * Better Bash:
     [http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
+
+SSH:
+
+  * SSH:
+    [http://blog.tjll.net/ssh-kung-fu/](http://blog.tjll.net/ssh-kung-fu/)
