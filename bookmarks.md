@@ -32,3 +32,8 @@ SSH:
 
   * SSH:
     [http://blog.tjll.net/ssh-kung-fu/](http://blog.tjll.net/ssh-kung-fu/)
+
+Vim:
+
+  * Reference:
+    [http://ajh17.github.io/2014/05/25/can-someone-help-me/index.html](http://ajh17.github.io/2014/05/25/can-someone-help-me/index.html)
